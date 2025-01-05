@@ -12,7 +12,7 @@ Some projects:
 
 - [literature-project](https://literature-project.vercel.app)
 - [simple to-do list](https://todolist-plum-six.vercel.app)
-- [nodejs-repository](https://github.com/Apolloyy/learning-nodejs)
+- [art gallery](https://artgallery-psi.vercel.app)
 
 > "One must imagine Sisyphus happy" - Albert Camus
 
