@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-[![Instagram Badge](https://img.shields.io/badge/-@lucasvlrn-eabe6c?style=flat-square&labelColor=eabe6c&logo=instagram&logoColor=333&link=https://instagram.com/lucasvlrn)](https://instagram.com/lucasvlrn) [![Gmail Badge](https://img.shields.io/badge/-lucasvilarinhop@gmail.com-eabe6c?style=flat-square&logo=Gmail&logoColor=333&link=mailto:lucasvilarinhop@gmail.com)](mailto:lucasvilarinhop@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/-@lucasvlrn-010122?style=flat-square&labelColor=010122&logo=instagram&logoColor=f6f6f6&link=https://instagram.com/lucasvlrn)](https://instagram.com/lucasvlrn) [![Gmail Badge](https://img.shields.io/badge/-lucasvilarinhop@gmail.com-010122?style=flat-square&logo=Gmail&logoColor=f6f6f6&link=mailto:lucasvilarinhop@gmail.com)](mailto:lucasvilarinhop@gmail.com) 
 
 I'm a 18-year-old developer passionate about programming, web technologies and hardware. 
 
