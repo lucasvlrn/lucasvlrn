@@ -1,20 +1,23 @@
-### Hello! 👋
+### Olá! 👋
 
-[![Instagram Badge](https://img.shields.io/badge/-@lucasvlrn-010122?style=flat-square&labelColor=010122&logo=instagram&logoColor=f6f6f6&link=https://instagram.com/lucasvlrn)](https://instagram.com/lucasvlrn) [![Gmail Badge](https://img.shields.io/badge/-lucasvilarinhop@gmail.com-010122?style=flat-square&logo=Gmail&logoColor=f6f6f6&link=mailto:lucasvilarinhop@gmail.com)](mailto:lucasvilarinhop@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-2177B5?style=flat&logo=linkedin&logoColor=#f2f2f2)](https://linkedin.com/in/lucasvlrn) 
+ 
+Me chamo Lucas, tenho 18 anos e sou um desenvolvedor apaixonado por programação, tecnologias de backend e hardware.
 
-I'm a 18-year-old developer passionate about programming, web technologies and hardware. 
+Comecei minha jornada na programação aos 15 anos e, desde então, venho me dedicando a aprender constantemente, criando projetos que me desafiam e me motivam. 
 
-I started my journey into the programming world at the age of 15 and since then I have been dedicated to learning and building new things. Currently, I'm focusing on improving my skills in Node.js and other Javascript tools.
+- 📚 Atualmente aprendendo: Node.js, JavaScript, Java ☕ 
+- 🛠️ Principais interesses: Backend, IaC, SQL, Hardware, DSA  
+- 🎓 Formação: Técnico em Desenvolvimento de Sistemas | Estudante de Ciência da Computação 
 
-In my free time, I play online games, read books, and listen to music of all types. This keeps my mind fresh and helps me approach problems from different angles.
+Nas horas livres, gosto de ler, sair com amigos, jogar e ouvir música de diversos estilos. Esses momentos me ajudam a renovar as ideias e enxergar os problemas com mais clareza e criatividade.
 
-Some projects:
+Portfólio:
+- [meu-site](https://lucasvlrn.vercel.app)
 
-- [literature-project](https://literature-project.vercel.app)
-- [simple to-do list](https://todolist-plum-six.vercel.app)
-- [art gallery](https://artgallery-psi.vercel.app)
-
-> "One must imagine Sisyphus happy" - Albert Camus
+> *One must imagine Sisyphus happy*
+\
+> Albert Camus
 
 \
 ⭐
