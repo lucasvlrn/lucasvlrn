@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-2177B5?style=flat&logo=linkedin&logoColor=#f2f2f2)](https://linkedin.com/in/lucasvlrn) 
  
-Me chamo Lucas, tenho 18 anos e sou um desenvolvedor apaixonado por programação, tecnologias de backend e hardware.
+Me chamo Lucas, tenho 19 anos e sou um desenvolvedor apaixonado por programação, tecnologias de backend e hardware.
 
 Comecei minha jornada na programação aos 15 anos e, desde então, venho me dedicando a aprender constantemente, criando projetos que me desafiam e me motivam. 
 
